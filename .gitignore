@@ -1,0 +1,13 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Java build artifacts
+*.class
+
+# OS junk
+.DS_Store
+Thumbs.db
