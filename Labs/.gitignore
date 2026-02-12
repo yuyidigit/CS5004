@@ -1,0 +1,20 @@
+# IntelliJ / JetBrains
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Java build artifacts
+*.class
+
+# Maven / Gradle
+target/
+build/
+.gradle/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+
